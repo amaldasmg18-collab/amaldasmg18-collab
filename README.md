@@ -6,11 +6,11 @@
 
 <div align="center">
 
-# Hi, I'm Amaldas MG
+# Amaldas MG
 
-### Cybersecurity Student · Aspiring SOC Analyst · Blue Team
+### Cybersecurity | Security Operations | Blue Team
 
-**Learning to detect threats, understand attacker techniques, and build practical security skills.**
+**Focused on security monitoring, network fundamentals, threat detection, and practical security analysis.**
 
 <p>
   <a href="https://www.linkedin.com/in/amaldas-mg18/">
@@ -32,18 +32,16 @@
 
 ## About Me
 
-I'm an aspiring cybersecurity professional currently studying the **Offenso Certified Security Professional (OCSP)** program at **Offenso Hackers Academy**. My primary career goal is to grow into a **SOC Analyst / Blue Team** role, developing the practical skills needed to investigate security events, understand logs, identify suspicious activity, and support incident response.
+I am pursuing the **Offenso Certified Security Professional (OCSP)** program at **Offenso Hackers Academy**, with a focus on security operations and defensive security. My interests include SOC workflows, SIEM-based monitoring, network security, threat detection, and incident-response fundamentals.
 
-I'm building my foundation in networking, Linux, security operations, and offensive-security concepts. Exploring how attacks work—including Android application security—helps me better understand what defenders need to detect and protect against.
+My approach combines networking and Linux fundamentals with practical lab work. I also study offensive-security techniques and Android application security to better understand attack paths, security weaknesses, and defensive mitigations. I document key takeaways and aim to turn structured learning into useful, reproducible portfolio work.
 
-I value consistent self-learning, patience when solving difficult problems, and learning through hands-on labs. I'm also actively working to improve my technical communication and explain what I learn clearly.
-
-- **Primary focus:** SOC operations, Blue Team, SIEM, threat detection, and security analysis
-- **Currently learning:** Cybersecurity fundamentals and Android penetration-testing concepts
-- **Hands-on learning:** TryHackMe, virtual labs, and guided security exercises
-- **Based in:** Kochi, Kerala, India
+- **Security focus:** SOC operations, Blue Team, SIEM, threat detection, and security analysis
+- **Technical foundations:** Networking, TCP/IP, Linux, and virtualised lab environments
+- **Application security interest:** Android security and authorised testing methodologies
+- **Location:** Kochi, Kerala, India
 - **Languages:** English and Malayalam
-- **Looking for:** Cybersecurity internships and suitable entry-level opportunities
+- **Opportunities:** Cybersecurity internships and entry-level security roles
 
 ## Career Focus
 
@@ -57,84 +55,78 @@ I value consistent self-learning, patience when solving difficult problems, and 
 
 </div>
 
-I am still developing my skills, so this profile distinguishes learning interests from demonstrated project experience. As I complete labs and publish write-ups, I will add the evidence and repository links here.
+This profile focuses on practical foundations, documented learning, and areas of security specialisation. Project links and technical write-ups will be added as the portfolio expands.
 
 ## Skills & Technologies
 
 ### Security and networking
 
 <p>
-  <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-Learning-173B57?style=flat-square">
-  <img alt="SOC" src="https://img.shields.io/badge/SOC%20Operations-Learning-173B57?style=flat-square">
-  <img alt="SIEM" src="https://img.shields.io/badge/SIEM-Fundamentals-173B57?style=flat-square">
-  <img alt="Network Security" src="https://img.shields.io/badge/Network%20Security-Learning-173B57?style=flat-square">
-  <img alt="Threat Detection" src="https://img.shields.io/badge/Threat%20Detection-Exploring-173B57?style=flat-square">
-  <img alt="Android Security" src="https://img.shields.io/badge/Android%20Security-Beginner-173B57?style=flat-square">
+  <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-Security%20Analysis-173B57?style=flat-square">
+  <img alt="SOC" src="https://img.shields.io/badge/SOC%20Operations-Blue%20Team-173B57?style=flat-square">
+  <img alt="SIEM" src="https://img.shields.io/badge/SIEM-Monitoring-173B57?style=flat-square">
+  <img alt="Network Security" src="https://img.shields.io/badge/Network%20Security-TCP%2FIP-173B57?style=flat-square">
+  <img alt="Threat Detection" src="https://img.shields.io/badge/Threat%20Detection-Security%20Monitoring-173B57?style=flat-square">
+  <img alt="Android Security" src="https://img.shields.io/badge/Android%20Security-Application%20Security-173B57?style=flat-square">
 </p>
 
 ### Systems and lab tools
 
 <p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-System%20Fundamentals-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-Lab%20Environment-557C94?style=flat-square&logo=kalilinux&logoColor=white">
   <img alt="Networking" src="https://img.shields.io/badge/Networking-Foundations-167D9A?style=flat-square">
   <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-Virtual%20Labs-183A61?style=flat-square&logo=virtualbox&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-Basic%20Lab%20Use-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-Lab%20Environment-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
-### Tools and topics I am exploring
+### Security toolset and focus areas
 
-- **Learning platforms:** TryHackMe
-- **Virtual lab environment:** Kali Linux, VirtualBox, and Metasploitable 2 lab setup
-- **Areas of interest:** SIEM, Wazuh, Splunk, MITRE ATT&CK, vulnerability assessment, OSINT, and Android application security
+- **Lab and learning platform:** TryHackMe
+- **Virtualised environment:** Kali Linux, VirtualBox, and Metasploitable 2
+- **Security operations:** SIEM concepts, alert investigation, log analysis, and MITRE ATT&CK
+- **Tools and technologies of interest:** Wazuh, Splunk, OSINT, vulnerability assessment, and Android application security
 
-> Tools and topics listed as “exploring” are learning goals, not a claim of professional proficiency. I'll update this section as I gain hands-on experience.
+I use these areas to structure practical study and identify opportunities to deepen hands-on experience.
 
 ## Practical Learning & Labs
 
 ### 1. Networking Concepts — TryHackMe
 
-**Status:** Completed
+**Focus:** OSI model and TCP/IP fundamentals
 
-Studied foundational networking concepts, including the **OSI model** and **TCP/IP model**. These fundamentals support my ongoing learning in network security, traffic analysis, and security monitoring.
+Completed foundational networking study covering the **OSI model** and **TCP/IP model**—core concepts for understanding network communication, security monitoring, and traffic analysis.
 
 - Platform: [TryHackMe](https://tryhackme.com/p/amaldasmg18)
-- Focus: Network models and core networking concepts
-- Next step: Apply networking knowledge in practical security and troubleshooting labs
+- Application: Build on networking fundamentals through security and troubleshooting labs
 
 ### 2. Cybersecurity Virtual Lab
 
-**Status:** Learning / lab environment
+Configured a local virtualised environment for controlled security practice and experimentation.
 
-Working with a local virtual lab environment to learn safely and practise security concepts.
-
-- Environment: Kali Linux and VirtualBox
-- Lab target: Metasploitable 2 in a controlled lab
-- Learning goals: Understand lab networking, Linux environments, and safe practical testing
-- Documentation: Add a repository link here when the lab notes are published
+- **Environment:** Kali Linux and VirtualBox
+- **Target:** Metasploitable 2 in an isolated lab
+- **Focus:** Lab networking, Linux administration, and authorised security testing
+- **Documentation:** Technical notes and repository link to be added when published
 
 ### 3. Android Application Security
 
-**Status:** Beginner — currently learning
+Developing knowledge of Android application security and authorised mobile-testing methodology, with an emphasis on understanding weaknesses and documenting findings responsibly.
 
-Recently started learning about Android penetration testing and application-security concepts. The goal is to understand how mobile applications can be assessed in authorised environments and how security weaknesses can be documented responsibly.
+- **Focus:** Mobile application security concepts and assessment methodology
+- **Portfolio direction:** Structured lab notes, findings, and remediation guidance
+- **Testing scope:** Applications and environments owned by me or explicitly authorised for testing
 
-- Current focus: Learning the fundamentals
-- Future portfolio evidence: Lab notes, methodology, findings, and remediation guidance
-- Scope: Only applications and environments I own or am explicitly authorised to test
+### Portfolio priorities
 
-### Featured repositories
+The most valuable next additions to this profile are concise, reproducible repositories with a clear objective, methodology, evidence, key findings, and recommended mitigations. Planned portfolio topics include:
 
-As the portfolio grows, pin your strongest repositories here. Use these slots only after creating the corresponding repositories.
+- **Security lab notes:** Scope, setup, commands, observations, and lessons learned
+- **Android application security:** Authorised lab analysis and remediation notes
+- **Networking fundamentals:** OSI/TCP-IP references, diagrams, and practical exercises
 
-| Repository | What to include | Status |
-|---|---|---|
-| `cybersecurity-labs` | Lab notes, commands, learning outcomes, and safe practice exercises | Planned |
-| `android-security-notes` | Android security concepts and authorised lab write-ups | Planned |
-| `networking-notes` | OSI/TCP-IP notes, diagrams, and networking practice | Planned |
-
-**Tip:** Replace these planned ideas with real repository links once the repositories exist. A small, well-documented project is stronger than a large list of unfinished claims.
+Repository links will be added here as each project is published.
 
 ## Training & Education
 
@@ -149,19 +141,17 @@ Cybersecurity training covering offensive- and defensive-security topics. My cur
 ### Secondary School Education — 10th
 **Kerala · 2023–2024**
 
-I am continuing to build practical experience through structured learning and hands-on exercises.
+Training is complemented by independent study, virtual labs, and structured technical documentation.
 
-## Learning Roadmap
+## Technical Development Priorities
 
-```text
-Networking & Linux foundations  ━━━━━━━━━━ Building
-Security tools and lab practice ━━━━━━━━━━ Ongoing
-SOC / SIEM fundamentals         ━━━━━━━━━━ Learning
-Android application security    ━━━━━━━━━━ Beginner
-Documented portfolio projects   ━━━━━━━━━━ In progress
-```
-
-This roadmap is a qualitative snapshot, not a measured progress score. I will update it as I complete practical work.
+| Area | Direction |
+|---|---|
+| Networking and Linux | Strengthen troubleshooting and security fundamentals |
+| SOC and SIEM | Develop log-analysis, alert-triage, and detection knowledge |
+| Security tools | Apply tools in controlled, authorised lab environments |
+| Android application security | Study mobile attack surfaces and remediation approaches |
+| Technical portfolio | Publish clear, reproducible write-ups and project documentation |
 
 ## GitHub Activity & Statistics
 
@@ -189,19 +179,19 @@ These visualisations report GitHub activity; they do not measure cybersecurity a
 
 ## What I Bring
 
-- **Self-directed learning:** I take initiative to study topics and understand them step by step.
-- **Patience:** I am willing to work through difficult concepts rather than rush past them.
-- **Growth mindset:** I am actively improving my practical skills and communication.
-- **Defender's perspective:** My interest in offensive security helps me ask how vulnerabilities arise and how they can be detected or prevented.
-- **Honest documentation:** I aim to record what I actually did, what I learned, and what I still need to improve.
+- **Independent problem-solving:** Approach unfamiliar topics systematically and follow through on difficult concepts.
+- **Patience and consistency:** Prioritise understanding, practice, and steady improvement.
+- **Continuous development:** Invest in technical growth and clearer professional communication.
+- **Defensive mindset:** Connect attacker techniques with detection, prevention, and remediation.
+- **Clear documentation:** Emphasise reproducible steps, meaningful findings, and actionable takeaways.
 
 ## Currently Looking For
 
-I'm open to **cybersecurity internships and entry-level opportunities** where I can learn from experienced professionals, contribute responsibly, and grow my practical skills.
+I'm open to **cybersecurity internships and entry-level security opportunities** where I can contribute, learn from experienced teams, and continue developing practical security operations skills.
 
-**Areas of interest:** SOC Analyst, Blue Team, Security Operations, Cybersecurity Analyst, and security-focused trainee roles.
+**Target roles:** SOC Analyst, Blue Team Analyst, Security Operations, Cybersecurity Analyst, and security trainee positions.
 
-If you're recruiting for a beginner-friendly opportunity or have feedback on my projects, I'd be happy to connect.
+If your team is hiring for a role aligned with these areas, please feel free to connect.
 
 <div align="center">
 
